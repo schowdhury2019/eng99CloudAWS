@@ -103,5 +103,7 @@ Create an alarm
 ![image](https://user-images.githubusercontent.com/14828358/144465486-d3bdd426-3654-4ce6-a7cd-927add957484.png)
 
 
+##AWS Auto Scaling
 
+https://docs.aws.amazon.com/autoscaling/plans/userguide/what-is-aws-auto-scaling.html
 
