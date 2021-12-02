@@ -77,6 +77,5 @@ Name = eng99_sunny_app_ami
 
 ## Monitoring
 
-![image](https://user-images.githubusercontent.com/14828358/144444364-522e930f-9339-4000-adc0-5914cc18403a.png)
-
+![image](https://user-images.githubusercontent.com/14828358/144445063-6979b7a2-b191-4d01-beae-fa0a7cf7a85f.png)
 
