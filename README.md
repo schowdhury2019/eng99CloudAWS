@@ -71,9 +71,20 @@ Specify new inbound rule to allow app to access database
 
 ![image](https://user-images.githubusercontent.com/14828358/144434131-4c2dc9ce-01b4-497a-8493-16f7c04bf090.png)
 
-Name it
+Image name: eng99_sunny_app_ami
+Image description: eng99_sunny_app_ami
 
+Add Tag
 Name = eng99_sunny_app_ami
+
+![image](https://user-images.githubusercontent.com/14828358/144455406-f0e4e6c1-1d59-46b9-abce-2ef5a1390444.png)
+
+Click Create Image
+
+On the panel, navigate to AMIs and search for your AMI
+
+![image](https://user-images.githubusercontent.com/14828358/144456271-52cad34e-4946-4ecb-b92d-1d4e61c1125e.png)
+
 
 ## Monitoring
 
@@ -85,6 +96,11 @@ Amazon SNS topics:
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/US_SetupSNS.html
 
 ![image](https://user-images.githubusercontent.com/14828358/144445619-10eed2ea-b0ab-4a92-b7bd-42a516950f95.png)
+
+
+Create an alarm
+
+![image](https://user-images.githubusercontent.com/14828358/144465486-d3bdd426-3654-4ce6-a7cd-927add957484.png)
 
 
 
