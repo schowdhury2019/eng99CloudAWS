@@ -42,7 +42,7 @@ Click Next
 
 Step 3: Configure Instance
 
-Click Next
+![image](https://user-images.githubusercontent.com/14828358/144436911-630261ce-ed00-4a7a-8004-ce483c0bb27d.png)
 
 Step 4: Add Storage
 
