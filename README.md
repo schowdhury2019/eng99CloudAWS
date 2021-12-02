@@ -16,7 +16,7 @@ Copy files into EC2 instance:
 
 scp -i pem_file file_to_copy user@ip:/destination
 
-example: scp -i "~/.ssh/eng99.pem" restaurant.py ubuntu@e***.com:/home/ubuntu/new_folder
+example: scp -i "~/.ssh/eng99.pem" restaurant.py ubuntu@e***.com:/home/ubuntu/new_folder/restaurant.py
 
 
 
