@@ -12,6 +12,13 @@
 - install dependencies
 
 
+Copy files into EC2 instance:
+
+scp -i pem_file file_to_copy user@ip:/destination
+
+example: scp -i "~/.ssh/eng99.pem" restaurant.py ubuntu@ec2-34-253-224-82.eu-west-1.compute.amazonaws.com:/home/ubuntu/new_folder
+
+
 
 Configure security group:
 
