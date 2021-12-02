@@ -59,6 +59,9 @@ Step 5: Add Tags
 
 
 
+Specify new inbound rule to allow app to access database
+
+![image](https://user-images.githubusercontent.com/14828358/144412565-c3bad5bd-bd61-4097-819a-990fe6a0c70b.png)
 
 
 
