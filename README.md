@@ -55,8 +55,7 @@ Step 5: Add Tags
 ![image](https://user-images.githubusercontent.com/14828358/144409178-0c50bacb-fd50-4ef4-9062-c68b41dff529.png)
 
 
-![image](https://user-images.githubusercontent.com/14828358/144409267-61f06f37-1796-4507-9326-d16c7dd43d2a.png)
-
+![image](https://user-images.githubusercontent.com/14828358/144409355-b2e74ef9-666d-4a6f-b646-a1a19c9fca0c.png)
 
 
 
