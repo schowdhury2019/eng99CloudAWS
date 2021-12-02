@@ -26,4 +26,5 @@ Go in security tab and select security group
 Add new inbound rule
 
 
+![image](https://user-images.githubusercontent.com/14828358/144407019-8153191b-91a8-446f-a1e7-ccfd9b4b83a3.png)
 
