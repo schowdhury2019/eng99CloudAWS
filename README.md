@@ -10,3 +10,13 @@
 - enable public ip
 - get app folder using secure copy 'scp'
 - install dependencies
+
+
+
+Configure security group:
+
+Go in security tab and select security group
+Add new inbound rule
+
+
+
