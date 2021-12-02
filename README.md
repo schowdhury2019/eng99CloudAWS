@@ -18,7 +18,9 @@ scp -i pem_file file_to_copy user@ip:/destination
 
 example: scp -i "~/.ssh/eng99.pem" restaurant.py ubuntu@e***.com:/home/ubuntu/new_folder/restaurant.py
 
+Regions and Availability Zones (AZ) 
 
+Not every AZ has every services 
 
 Configure security group:
 
