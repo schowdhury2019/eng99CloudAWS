@@ -79,3 +79,8 @@ Name = eng99_sunny_app_ami
 
 ![image](https://user-images.githubusercontent.com/14828358/144445063-6979b7a2-b191-4d01-beae-fa0a7cf7a85f.png)
 
+##CloudWatch - Monitoring Service
+
+![image](https://user-images.githubusercontent.com/14828358/144445619-10eed2ea-b0ab-4a92-b7bd-42a516950f95.png)
+
+
