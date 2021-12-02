@@ -81,6 +81,11 @@ Name = eng99_sunny_app_ami
 
 ##CloudWatch - Monitoring Service
 
+Amazon SNS topics:
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/US_SetupSNS.html
+
 ![image](https://user-images.githubusercontent.com/14828358/144445619-10eed2ea-b0ab-4a92-b7bd-42a516950f95.png)
+
+
 
 
