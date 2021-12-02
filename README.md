@@ -65,5 +65,11 @@ Specify new inbound rule to allow app to access database
 
 
 
+## Amazon Machine Image (AMI)
 
+![image](https://user-images.githubusercontent.com/14828358/144434131-4c2dc9ce-01b4-497a-8493-16f7c04bf090.png)
+
+Name it
+
+Name = eng99_sunny_app_ami
 
