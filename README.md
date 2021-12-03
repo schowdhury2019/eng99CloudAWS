@@ -30,7 +30,7 @@ Add new inbound rule
 
 ![image](https://user-images.githubusercontent.com/14828358/144407299-7e2b7eb4-c4fe-4744-aa2b-f1fb2c84e7d3.png)
 
-Steps to set up instance:
+## Steps to set up instance:
 
 ![image](https://user-images.githubusercontent.com/14828358/144407787-afcb3c44-4b77-4e00-8835-2c9755fddd0d.png)
 
@@ -42,15 +42,15 @@ Select free tier filter
 
 Click Next
 
-Step 3: Configure Instance
+## Step 3: Configure Instance
 
 ![image](https://user-images.githubusercontent.com/14828358/144436911-630261ce-ed00-4a7a-8004-ce483c0bb27d.png)
 
-Step 4: Add Storage
+## Step 4: Add Storage
 
 Click Next
 
-Step 5: Add Tags
+## Step 5: Add Tags
 
 ![image](https://user-images.githubusercontent.com/14828358/144409066-a9e3d1e8-41a3-4fd7-adf8-7e2f5b6b90be.png)
 
