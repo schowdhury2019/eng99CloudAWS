@@ -180,6 +180,9 @@ default vpc
 
 ![image](https://user-images.githubusercontent.com/14828358/144593883-c2387b29-b31a-4c16-9651-d68c3aef6a2e.png)
 
+Click next
+
+## Step 3: Coonfigure Advanced Options
 
 ![image](https://user-images.githubusercontent.com/14828358/144594066-022dd23a-f981-49fb-88a0-f88cbca88bc2.png)
 
