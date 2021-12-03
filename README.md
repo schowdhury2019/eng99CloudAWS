@@ -244,20 +244,20 @@ S3 - Simple Storage Service. Used as a database.
    16  aws configure
    17  history
    
-   list aws s3 content
-   $ aws s3 ls
+list aws s3 content
+$ aws s3 ls
    
-   creating a bucket, make bucket (mb)
-   $ aws s3 mb s3://eng99-sunny
+creating a bucket, make bucket (mb)
+$ aws s3 mb s3://eng99-sunny
    
-   Copy file into s3 bucket
-   $ aws s3 cp README.md s3://eng99-sunny
+Copy file into s3 bucket   
+$ aws s3 cp README.md s3://eng99-sunny
 
-   Copy file from bucket to local machine
-   $ aws s3 cp s3://<path_to_file> <location>
+Copy file from bucket to local machine 
+$ aws s3 cp s3://<path_to_file> <location>
    
-   Remove bucket
-   $  aws s3 rb s3://eng99-sunny --force
+Remove bucket
+$ aws s3 rb s3://eng99-sunny --force
    
    
    
