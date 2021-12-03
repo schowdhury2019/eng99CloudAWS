@@ -163,7 +163,6 @@ Provisions:
 
 ![image](https://user-images.githubusercontent.com/14828358/144593383-cb1c2388-eac3-4226-9a2a-b46134f3c20a.png)
 
-
 ![image](https://user-images.githubusercontent.com/14828358/144593489-db99a7be-0ce8-440b-bd2c-dddd874bdd1a.png)
 
 ## Step 1: Choose Launch Template or Configurations
@@ -186,32 +185,31 @@ Click next
 
 ![image](https://user-images.githubusercontent.com/14828358/144594066-022dd23a-f981-49fb-88a0-f88cbca88bc2.png)
 
-
 ![image](https://user-images.githubusercontent.com/14828358/144594226-e5606f32-4506-4947-9174-bb59c17346d2.png)
 
 ![image](https://user-images.githubusercontent.com/14828358/144594276-7458b4ef-fd7c-4e7d-aa03-f7e0a7582af7.png)
 
-
 click next
 
+## Step 4: Condigure Group Size and Scaling Policies
 
 ![image](https://user-images.githubusercontent.com/14828358/144594372-5c41f30b-acdf-4eea-a448-e3043420de63.png)
 
-
-
 ![image](https://user-images.githubusercontent.com/14828358/144594506-5cfed058-fdea-44e2-b048-91f77e667694.png)
 
-
 click next
+
+## Step 5: Add Notifications
 
 ![image](https://user-images.githubusercontent.com/14828358/144594615-b276227a-736e-4ce9-b064-c091d00a723e.png)
 
-
 click next
 
+## Step 6: Add Tags
 
 ![image](https://user-images.githubusercontent.com/14828358/144594690-7670e407-fcf4-421a-af05-48c20a5c1761.png)
 
+## Step 7: Review
 
 check settings -> Click Create Auto Scaling Group
 
