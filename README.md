@@ -228,6 +228,41 @@ S3 - Simple Storage Service. Used as a database.
 ![image](https://user-images.githubusercontent.com/14828358/144619065-6247bfa0-ddd4-40c9-8845-3c4b2ac6dc16.png)
 
 
+ sudo apt-get update -y && sudo apt-get upgrade -y
+    4  sudo apt update -y
+    5  sudo apt upgrade -y
+    6  python --version
+    7  sudo apt install python3 -y
+    8  sudo apt-get install python3-pip
+    9  clear
+   10  alias python=python3
+   11  sudo apt install awscli -y
+   12  python --verison
+   13  python --version
+   14  python3 -m pip install aswcli
+   15  python3 -m pip install awscli
+   16  aws configure
+   17  history
+   
+   list aws s3 content
+   $ aws s3 ls
+   
+   creating a bucket, make bucket (mb)
+   $ aws s3 mb s3://eng99-sunny
+   
+   Copy file into s3 bucket
+   $ aws s3 cp README.md s3://eng99-sunny
+
+   Copy file from bucket to local machine
+   $ aws s3 cp s3://<path_to_file> <location>
+   
+   Remove bucket
+   $  aws s3 rb s3://eng99-sunny --force
+   
+   
+   
+   
+
 
 
 
