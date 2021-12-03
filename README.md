@@ -126,7 +126,7 @@ https://docs.aws.amazon.com/autoscaling/plans/userguide/what-is-aws-auto-scaling
 - Mult Could Deployment - Financial Conduct Authority -> All banks must have multi cloud deployment
 - If a bank went down, the information would be available in another cloud network
 
-
+# Launch Template
 
 ![image](https://user-images.githubusercontent.com/14828358/144588389-38922a8b-e28f-42b7-a9cf-221076df1e0a.png)
 
@@ -159,7 +159,7 @@ Provisions:
 
 ![image](https://user-images.githubusercontent.com/14828358/144589916-ebe20a4f-5246-488a-a511-46783f68e109.png)
 
-Auto Scaling
+# Auto Scaling
 
 ![image](https://user-images.githubusercontent.com/14828358/144593383-cb1c2388-eac3-4226-9a2a-b46134f3c20a.png)
 
