@@ -207,5 +207,6 @@ click next
 check settings -> Click Create Auto Scaling Group
 
 
+![image](https://user-images.githubusercontent.com/14828358/144598181-a3d870d2-3969-47cf-9959-c056ca5a0a2c.png)
 
 
