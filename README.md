@@ -144,12 +144,67 @@ https://docs.aws.amazon.com/autoscaling/plans/userguide/what-is-aws-auto-scaling
 ![image](https://user-images.githubusercontent.com/14828358/144589100-58a99eb2-0429-4e3b-b9cd-cfb8588fe733.png)
 
 
+Advanced Details:
+
+
+Provisions:
+
+![image](https://user-images.githubusercontent.com/14828358/144589657-8ab30af3-bb06-4fc1-a623-79c91deee194.png)
+ 
+ 
+ Launch Template
+
+
+![image](https://user-images.githubusercontent.com/14828358/144589734-55a2b9da-ba53-4439-9cc1-504234460279.png)
+
+![image](https://user-images.githubusercontent.com/14828358/144589916-ebe20a4f-5246-488a-a511-46783f68e109.png)
+
+Auto Scaling
+
+![image](https://user-images.githubusercontent.com/14828358/144593383-cb1c2388-eac3-4226-9a2a-b46134f3c20a.png)
+
+
+![image](https://user-images.githubusercontent.com/14828358/144593489-db99a7be-0ce8-440b-bd2c-dddd874bdd1a.png)
+
+name does not allow underscore
+
+![image](https://user-images.githubusercontent.com/14828358/144593685-78d983f2-a44c-4dd2-86ca-b200d2f9d91c.png)
+
+default vpc
+
+![image](https://user-images.githubusercontent.com/14828358/144593883-c2387b29-b31a-4c16-9651-d68c3aef6a2e.png)
+
+
+![image](https://user-images.githubusercontent.com/14828358/144594066-022dd23a-f981-49fb-88a0-f88cbca88bc2.png)
+
+
+![image](https://user-images.githubusercontent.com/14828358/144594226-e5606f32-4506-4947-9174-bb59c17346d2.png)
+
+![image](https://user-images.githubusercontent.com/14828358/144594276-7458b4ef-fd7c-4e7d-aa03-f7e0a7582af7.png)
+
+
+click next
+
+
+![image](https://user-images.githubusercontent.com/14828358/144594372-5c41f30b-acdf-4eea-a448-e3043420de63.png)
 
 
 
+![image](https://user-images.githubusercontent.com/14828358/144594506-5cfed058-fdea-44e2-b048-91f77e667694.png)
 
 
+click next
 
+![image](https://user-images.githubusercontent.com/14828358/144594615-b276227a-736e-4ce9-b064-c091d00a723e.png)
+
+
+click next
+
+
+![image](https://user-images.githubusercontent.com/14828358/144594690-7670e407-fcf4-421a-af05-48c20a5c1761.png)
+
+
+check settings -> Click Create Auto Scaling Group
 
 
 
