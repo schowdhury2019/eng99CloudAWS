@@ -34,9 +34,11 @@ Add new inbound rule
 
 ![image](https://user-images.githubusercontent.com/14828358/144407787-afcb3c44-4b77-4e00-8835-2c9755fddd0d.png)
 
-Select free tier filter
+## Step 1: Select free tier filter
 
 ![image](https://user-images.githubusercontent.com/14828358/144407926-42fd46f6-2fa6-42fe-b271-2b5b9afe0680.png)
+
+## Step 2: Select Instance
 
 ![image](https://user-images.githubusercontent.com/14828358/144407995-6b230bb3-35be-4939-a62e-2330d44ea0c8.png)
 
