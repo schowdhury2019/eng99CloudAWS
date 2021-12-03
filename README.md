@@ -182,7 +182,7 @@ default vpc
 
 Click next
 
-## Step 3: Coonfigure Advanced Options
+## Step 3: Configure Advanced Options
 
 ![image](https://user-images.githubusercontent.com/14828358/144594066-022dd23a-f981-49fb-88a0-f88cbca88bc2.png)
 
