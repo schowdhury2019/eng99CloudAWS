@@ -103,7 +103,54 @@ Create an alarm
 ![image](https://user-images.githubusercontent.com/14828358/144465486-d3bdd426-3654-4ce6-a7cd-927add957484.png)
 
 
-##AWS Auto Scaling
+##AWS Auto Scaling and Load Balancing
+
+Highly Available - Available in multiple Regions and/or Availability Zones
 
 https://docs.aws.amazon.com/autoscaling/plans/userguide/what-is-aws-auto-scaling.html
+
+![image](https://user-images.githubusercontent.com/14828358/144585569-b67f504d-73ae-4cb1-8fbb-3b96b6a3656d.png)
+
+- Create Launch template for autoscaling group
+- Create auto scaling group
+- Create auto load balancer
+- attach vpc - 3 subnets in 3 different AZs
+- Configure Security group for app
+- all ec2 have nginx installed
+- Regions eu - AZs
+- Disaster Recovery Plans
+
+
+- Hybrid Cloud Deployment - Fintech - Banks
+- Multi Region Deployment - Large organisations
+- Mult Could Deployment - Financial Conduct Authority -> All banks must have multi cloud deployment
+- If a bank went down, the information would be available in another cloud network
+
+
+
+![image](https://user-images.githubusercontent.com/14828358/144588389-38922a8b-e28f-42b7-a9cf-221076df1e0a.png)
+
+
+![image](https://user-images.githubusercontent.com/14828358/144588662-376f730f-e48d-4cf2-8868-ad244f6f30f2.png)
+
+
+![image](https://user-images.githubusercontent.com/14828358/144588792-400ae5a6-58b0-408e-90b7-968b190be1a6.png)
+
+![image](https://user-images.githubusercontent.com/14828358/144588837-2343bede-5e25-46e6-9f55-8ffd3bed34c2.png)
+
+
+![image](https://user-images.githubusercontent.com/14828358/144588952-31c2472b-55d6-42ef-a062-16789a82530f.png)
+
+![image](https://user-images.githubusercontent.com/14828358/144589100-58a99eb2-0429-4e3b-b9cd-cfb8588fe733.png)
+
+
+
+
+
+
+
+
+
+
+
 
