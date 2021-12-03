@@ -209,6 +209,8 @@ click next
 
 ![image](https://user-images.githubusercontent.com/14828358/144594690-7670e407-fcf4-421a-af05-48c20a5c1761.png)
 
+click next
+
 ## Step 7: Review
 
 check settings -> Click Create Auto Scaling Group
