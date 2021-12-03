@@ -166,11 +166,15 @@ Provisions:
 
 ![image](https://user-images.githubusercontent.com/14828358/144593489-db99a7be-0ce8-440b-bd2c-dddd874bdd1a.png)
 
-name does not allow underscore
+## Step 1: Choose Launch Template or Configurations
+
+Name does not allow underscore
 
 ![image](https://user-images.githubusercontent.com/14828358/144593685-78d983f2-a44c-4dd2-86ca-b200d2f9d91c.png)
 
 Click Next
+
+## Step 2: Choose Instance Launch Options
 
 default vpc
 
