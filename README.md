@@ -242,7 +242,8 @@ S3 - Simple Storage Service. Used as a database.
    14  python3 -m pip install aswcli
    15  python3 -m pip install awscli
    16  aws configure
-   17  history
+   
+Enter Detail, access key, secret key, region: eu-west-1, output: json
    
 list aws s3 content
 $ aws s3 ls
@@ -258,7 +259,32 @@ Copy file from bucket to local machine
 $ aws s3 cp s3://<path_to_file> <location>
    
 Remove bucket
+
 $ aws s3 rb s3://eng99-sunny --force
-   
-   
-   
+
+# Python boto3  
+ 
+python3 -m pip install boto3
+
+import boto3
+ 
+s3 = boto3.client('s3')
+ 
+### Create bucket
+ s3.create_bucket(
+  Bucket=<bucket_name>, 
+  CreateBucketConfiguration={'LocationConstraint':'<availability_zone>'}
+  )
+ 
+### Upload file to bucket
+s3.upload_file(<file_location>, <my_bucket>, <location on bucket>) 
+
+### Download file from bucket
+s3.download_file(<bucket>, <location_on_bucket>, '<disired_location>')
+ 
+### Delete file from bucket
+s3.delete_object(<bucket_name>, <file_pathon_bucket>)
+ 
+### Delete Bucket
+s3.delete_bucket(<bucket_name>)
+ 
