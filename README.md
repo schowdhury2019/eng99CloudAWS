@@ -170,6 +170,8 @@ name does not allow underscore
 
 ![image](https://user-images.githubusercontent.com/14828358/144593685-78d983f2-a44c-4dd2-86ca-b200d2f9d91c.png)
 
+Click Next
+
 default vpc
 
 ![image](https://user-images.githubusercontent.com/14828358/144593883-c2387b29-b31a-4c16-9651-d68c3aef6a2e.png)
