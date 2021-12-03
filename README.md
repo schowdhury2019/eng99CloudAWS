@@ -219,3 +219,18 @@ check settings -> Click Create Auto Scaling Group
 ![image](https://user-images.githubusercontent.com/14828358/144598181-a3d870d2-3969-47cf-9959-c056ca5a0a2c.png)
 
 
+
+# S3 and AWS CLI
+
+S3 - Simple Storage Service. Used as a database.
+
+
+![image](https://user-images.githubusercontent.com/14828358/144619065-6247bfa0-ddd4-40c9-8845-3c4b2ac6dc16.png)
+
+
+
+
+
+
+
+
