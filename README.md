@@ -67,7 +67,7 @@ Specify new inbound rule to allow app to access database
 
 
 
-## Amazon Machine Image (AMI)
+# Amazon Machine Image (AMI)
 
 ![image](https://user-images.githubusercontent.com/14828358/144434131-4c2dc9ce-01b4-497a-8493-16f7c04bf090.png)
 
@@ -86,24 +86,22 @@ On the panel, navigate to AMIs and search for your AMI
 ![image](https://user-images.githubusercontent.com/14828358/144456271-52cad34e-4946-4ecb-b92d-1d4e61c1125e.png)
 
 
-## Monitoring
+# Monitoring
 
 ![image](https://user-images.githubusercontent.com/14828358/144445063-6979b7a2-b191-4d01-beae-fa0a7cf7a85f.png)
 
-##CloudWatch - Monitoring Service
+## CloudWatch - Monitoring Service
 
 Amazon SNS topics:
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/US_SetupSNS.html
 
 ![image](https://user-images.githubusercontent.com/14828358/144445619-10eed2ea-b0ab-4a92-b7bd-42a516950f95.png)
 
-
 Create an alarm
 
 ![image](https://user-images.githubusercontent.com/14828358/144465486-d3bdd426-3654-4ce6-a7cd-927add957484.png)
 
-
-##AWS Auto Scaling and Load Balancing
+# AWS Auto Scaling and Load Balancing
 
 Highly Available - Available in multiple Regions and/or Availability Zones
 
