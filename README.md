@@ -254,6 +254,7 @@ Copy file into s3 bucket
 $ aws s3 cp README.md s3://eng99-sunny
 
 Copy file from bucket to local machine 
+
 $ aws s3 cp s3://<path_to_file> <location>
    
 Remove bucket
