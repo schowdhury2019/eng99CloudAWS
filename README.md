@@ -191,7 +191,7 @@ Click next
 
 click next
 
-## Step 4: Condigure Group Size and Scaling Policies
+## Step 4: Configure Group Size and Scaling Policies
 
 ![image](https://user-images.githubusercontent.com/14828358/144594372-5c41f30b-acdf-4eea-a448-e3043420de63.png)
 
