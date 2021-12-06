@@ -19,3 +19,30 @@
 ## Route Tables
 
   * A route table contains a set of rules, called routes, that are used to determine where network traffic from your subnet or gateway is directed.
+
+
+
+
+
+
+## Step 1: Create VPC
+
+
+## Step 2: Internet Gateway
+
+### Attach IG to VPC
+
+## Step 3: Public Subnet for our App
+
+## Step 4: Create Routing Table with Routes and Rules
+
+### Edit Routes to allow IG and VPC
+
+### Associate our RT to our public subnet
+
+
+- Create security group now or when app is launched
+- port 22 from my_ip
+- port 3000
+- port 80 HTTP with cert for security
+- HTTP - SSL cert
