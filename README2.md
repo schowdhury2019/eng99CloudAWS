@@ -15,3 +15,7 @@
 ## Network Access Control Layer (NACL)
 
   * An optional layer of security for your VPC that acts as a firewall for controlling traffic in and out of one or more subnets 
+
+## Route Tables
+
+  * A route table contains a set of rules, called routes, that are used to determine where network traffic from your subnet or gateway is directed.
