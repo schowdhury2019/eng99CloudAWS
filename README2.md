@@ -90,20 +90,6 @@ Click Create
 ![image](https://user-images.githubusercontent.com/14828358/144843039-020aa940-23a0-443b-ba3e-e4ec00e06eea.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ip range: 10.0.10.0/16
 
 - Create security group now or when app is launched
@@ -111,6 +97,31 @@ ip range: 10.0.10.0/16
 - port 3000
 - port 80 HTTP with cert for security
 - HTTP - SSL cert
+
+
+
+
+- Security groups work on instance level and by default outbound rules allow all
+- Network Access Control Layer adds and extra layer of security
+
+
+Tell me about your self
+
+
+What is DevOps and what are they key benefits of DevOps
+
+
+what is the diff between monolith and 2 tier architecture
+
+
+what is a VPC networking
+
+
+explain how to deploy 2tier architecture with private and public subnets
+
+
+
+
 
 
 
