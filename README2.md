@@ -105,7 +105,7 @@ ip range: 10.0.10.0/16
 - Network Access Control Layer adds and extra layer of security
 
 
-Tell me about your self
+~Tell me about your self
 
 
 What is DevOps and what are they key benefits of DevOps
@@ -114,7 +114,7 @@ What is DevOps and what are they key benefits of DevOps
 what is the diff between monolith and 2 tier architecture
 
 
-what is a VPC networking
+~what is a VPC networking
 
 
 explain how to deploy 2tier architecture with private and public subnets
