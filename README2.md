@@ -128,4 +128,3 @@ explain how to deploy 2tier architecture with private and public subnets
 
 
 
-
