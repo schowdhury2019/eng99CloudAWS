@@ -25,6 +25,8 @@
 
 https://www.youtube.com/watch?v=GrfOsWUVCfg&ab_channel=LinuxAcademy
 
+https://www.youtube.com/watch?v=yCl8wkdSHA8&ab_channel=AOSNotes
+
 
 
 ## Step 1: Create VPC
