@@ -21,7 +21,9 @@
   * A route table contains a set of rules, called routes, that are used to determine where network traffic from your subnet or gateway is directed.
 
 
+## Tutorial
 
+https://www.youtube.com/watch?v=GrfOsWUVCfg&ab_channel=LinuxAcademy
 
 
 
