@@ -125,3 +125,14 @@ explain how to deploy 2tier architecture with private and public subnets
 
 ![image](https://user-images.githubusercontent.com/14828358/145082448-d921be94-d165-4a5d-a3b1-62534bcfa00a.png)
 
+
+![image](https://user-images.githubusercontent.com/14828358/145082694-1d1f13ef-481a-4c4b-af2b-cbd17d9ac9b9.png)
+
+
+![image](https://user-images.githubusercontent.com/14828358/145082742-72f9b48e-b4ec-4dad-94f3-4f31c26ccdc3.png)
+
+
+
+
+
+
