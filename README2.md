@@ -120,4 +120,5 @@ what is the diff between monolith and 2 tier architecture
 explain how to deploy 2tier architecture with private and public subnets
 
 
- 
+ ![image](https://user-images.githubusercontent.com/14828358/145018656-3a8b777e-133c-47e5-97be-a350e63b892f.png)
+
