@@ -2,6 +2,7 @@
 
 https://github.com/brittanyharrison/aws_VPC
 
+![image](https://user-images.githubusercontent.com/14828358/145195443-6a453d4f-2fd0-4edc-9eab-650aefb9d59a.png)
 
 
 - create EC2 instance - VM 
