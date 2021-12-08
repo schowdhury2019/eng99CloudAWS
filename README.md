@@ -1,5 +1,9 @@
 # eng99CloudAWS
 
+https://github.com/brittanyharrison/aws_VPC
+
+
+
 - create EC2 instance - VM 
 - Ubuntu 18.04LTS
 - Select the size of the VM
